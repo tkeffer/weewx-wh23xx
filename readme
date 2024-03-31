@@ -1,5 +1,5 @@
 weewx-wh23xx
-Copyright 2016 Matthew Wall
+Copyright 2016-2024 Matthew Wall
 License: GPLv3
 
 This is a weewx driver for Fine Offset WH23xx hardware.  These stations are

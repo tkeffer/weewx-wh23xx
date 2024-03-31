@@ -259,7 +259,7 @@ from weewx.wxformulas import calculate_rain
 log = logging.getLogger(__name__)
 
 DRIVER_NAME = 'WH23xx'
-DRIVER_VERSION = '0.2'
+DRIVER_VERSION = '0.15'
 
 def loader(config_dict, _):
     return WH23xxDriver(**config_dict[DRIVER_NAME])
